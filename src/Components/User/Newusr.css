@@ -1,0 +1,38 @@
+.userform {
+    width: 60%;
+    margin: 0 auto;
+    box-shadow: 1px 3px 4px 6px gray;
+    border-radius: 5px;
+    padding: 22px;
+    margin-top: 50px;
+
+}
+
+.head{
+    text-align: center;
+}
+#userbutton{
+    margin: 5px 10px;
+    width: 97.5%;
+
+}
+.form-group{
+    padding: 10px;
+}
+
+
+/* user detail css */
+
+.view1{
+    width: 50%;
+    margin: 30px auto;
+}
+.view1 h1{
+    text-align: center;
+}
+.form-group p{
+    color: brown;
+}
+.addusers{
+    background-color: black;
+}

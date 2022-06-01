@@ -1,0 +1,14 @@
+/* button css */
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+  }
+  .trash{
+    color: rgb(255, 0, 0);
+  }
+  .pen{
+    color: rgb(216, 231, 12);
+  }
+  .eye{
+    color: rgb(17, 236, 17);
+  }
